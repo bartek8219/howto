@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-## Gitflow vs Trunk-Based Development – porównanie dla zespołu backendowego
+## Gitflow vs Trunk-Based Development – porównanie
 
 ### Kontekst: wiele repozytoriów, małe zespoły
 
